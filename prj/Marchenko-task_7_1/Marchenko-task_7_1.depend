@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743348623 source:c:\users\kirill-marchenko\desktop\בלען לאנקוםךמ\bmtp-lab7-marchenko\prj\marchenko-task_7_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	<string.h>
+
